@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📝 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ### 🚀 Frontend Developer | API Integration Enthusiast | Responsive Design Expert
 
