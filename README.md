@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sadeeq-Ullah/Sadeeq-Ullah/main/Download%20Desktop%20source%20code%20and%20Wallpaper%20by%20coding%20and%20programming_%20for%20free.jfif" width="100%" height="230px" style="object-position:center;">
+  <img src="https://raw.githubusercontent.com/Sadeeq-Ullah/Sadeeq-Ullah/main/Download%20Desktop%20source%20code%20and%20Wallpaper%20by%20coding%20and%20programming_%20for%20free.jfif" width="100%" height="250px" style="object-position:center;">
 </div>
 
 # 💫 Hi 👋, I'm Sadeeq Khilji
