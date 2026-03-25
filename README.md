@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sadeeq-Ullah/Sadeeq-Ullah/main/coding%20laptop.jpg" width="100%">
+</div>
+
 # 💫 Hi 👋, I'm Sadeeq Khilji
 **A passionate Frontend Developer || API Integration Enthusiast || Responsive Design Expert from Pakistan**
 
