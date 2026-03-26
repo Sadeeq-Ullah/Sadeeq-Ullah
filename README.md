@@ -58,52 +58,32 @@ I started as a **Data Entry Specialist** (Excel, Google Sheets) before transitio
 Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" width="450">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
+      </td>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Sadeeq-Ullah&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-## 🏆 Achievements & Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Sadeeq-Ullah&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical&hide_title=false&count_private=true" width="450">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=radical&hide_border=false" width="450">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_title=false" width="450">
-      </td>
-      <td align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Sadeeq-Ullah&limit=5&theme=radical&combine_all_yearly_contributions=true" width="450">
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
