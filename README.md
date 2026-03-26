@@ -2,35 +2,10 @@
   <img src="https://raw.githubusercontent.com/Sadeeq-Ullah/Sadeeq-Ullah/main/Download%20Desktop%20source%20code%20and%20Wallpaper%20by%20coding%20and%20programming_%20for%20free.jfif" width="100%" height="250px" style="object-position:center;">
 </div>
 
-# 💫 Hi 👋, I'm Sadeeq Khilji
-**A passionate Frontend Developer || API Integration Enthusiast || Responsive Design Expert from Pakistan**
-
-Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
----
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-## 📝 About Me
-
+## 💫 Hi 👋, I'm Sadeeq Ullah
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-### 🚀 Frontend Developer | API Integration Enthusiast | Responsive Design Expert
+## 🚀 Frontend Developer || Responsive Design & scalable products builder || Data management enthusiast
 
 I build **production-ready web applications** that solve real business problems. With 1,000+ LinkedIn followers and a portfolio of fully deployed projects, I focus on clean code, responsive design, and seamless user experiences.
 
@@ -80,7 +55,27 @@ I build **production-ready web applications** that solve real business problems.
 I started as a **Data Entry Specialist** (Excel, Google Sheets) before transitioning to frontend development—which means I bring **exceptional attention to detail and data accuracy** to every line of code I write. My first functional web project? A currency converter that I built in one weekend and now gets real-time rates from 160+ countries!
 
 ---
+Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+## 🏆 GitHub Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical)
+
+---
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
