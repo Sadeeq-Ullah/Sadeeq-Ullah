@@ -73,8 +73,38 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
 </div>
 
 ---
-## 🏆 GitHub Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical)
+## 🏆 Achievements & Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Sadeeq-Ullah&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical&hide_title=false&count_private=true" width="450">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=radical&hide_border=false" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_title=false" width="450">
+      </td>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Sadeeq-Ullah&limit=5&theme=radical&combine_all_yearly_contributions=true" width="450">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 💻 Tech Stack
