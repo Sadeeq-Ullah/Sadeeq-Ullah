@@ -5,14 +5,14 @@
 ## 💫 Hi 👋, I'm Sadeeq Ullah
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-## 🚀 Frontend Developer || Responsive Design & scalable products builder || Data management enthusiast
+## 🚀 Frontend Developer || Responsive Design & scalable products builder || Technical Data Specialist 
 
 I build **production-ready web applications** that solve real business problems. With 1,000+ LinkedIn followers and a portfolio of fully deployed projects, I focus on clean code, responsive design, and seamless user experiences.
 
 ---
 
 ### 💼 What I'm Currently Working On
-- **Travel Booking Platform** — Full-featured booking system with hotel/flight search, map integration, and payment gateway (Launching Q2 2026)
+- **Travel Booking Platform** — Full-featured booking system with map integration, and payment gateway (Launching soon in 2026)
 - **Expanding my portfolio** with more API-integrated applications showcasing real-time data handling
 - **Freelance frontend projects** — Building responsive websites for businesses and startups
 
@@ -52,7 +52,7 @@ I build **production-ready web applications** that solve real business problems.
 ---
 
 ### ✨ Fun Fact
-I started as a **Data Entry Specialist** (Excel, Google Sheets) before transitioning to frontend development—which means I bring **exceptional attention to detail and data accuracy** to every line of code I write. My first functional web project? A currency converter that I built in one weekend and now gets real-time rates from 160+ countries!
+I started as a **Technical Data Specialist** (Excel, Google Sheets) before transitioning to frontend development—which means I bring **exceptional attention to detail and data accuracy** to every line of code I write. My first functional web project? A currency converter that I built in one weekend and now gets real-time rates from 160+ countries!
 
 ---
 Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -96,12 +96,10 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-009B3A?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
