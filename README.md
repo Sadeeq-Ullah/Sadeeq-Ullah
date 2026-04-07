@@ -66,15 +66,12 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
         <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" width="450">
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeeq-Ullah&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="450">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
-      </td>
-      <td align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Sadeeq-Ullah&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=Sadeeq-Ullah&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="700">
       </td>
     </tr>
   </table>
@@ -119,14 +116,18 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadeeq%20Khilji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadeeq-khilji/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sadeeq--Ullah-181717?style=for-the-badge&logo=github)](https://github.com/Sadeeq-Ullah)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:digitalboyofficial123@gmail.com)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Sadeeq-Ullah&icon=1&color=4)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/-%20Sadeeq%20Khilji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A2342)](https://www.linkedin.com/in/sadeeq-khilji/)
+[![GitHub](https://img.shields.io/badge/-%20Sadeeq--Ullah-e6edf3?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22&color=30363d)](https://github.com/Sadeeq-Ullah)
+[![WhatsApp](https://img.shields.io/badge/-%20%2B92%20330%203520929-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a2318)](https://wa.me/923303520929)
+[![Phone](https://img.shields.io/badge/-%20%2B92%20330%203520929-7F77DD?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a0a2e)](tel:+923303520929)
+[![Gmail](https://img.shields.io/badge/-%20digitalboyofficial123-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a0a)](mailto:digitalboyofficial123@gmail.com)
 
----
+</div>
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
