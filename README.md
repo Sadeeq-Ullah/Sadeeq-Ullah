@@ -60,21 +60,38 @@ Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Proje
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sadeeq-Ullah&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" width="450">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeeq-Ullah&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C7B7" width="450">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=Sadeeq-Ullah&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" width="700">
-      </td>
-    </tr>
-  </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Sadeeq-Ullah%20%7C%20Full%20Stack%20Developer&descAlignY=62&descColor=00C7B7&descSize=18" width="800" />
+
+<br/><br/>
+
+<table border="0" cellpadding="8" cellspacing="0" width="800">
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Sadeeq-Ullah&theme=synthwave&hide_border=false&border=00C7B740&background=0D0D1A&stroke=00C7B7&ring=00C7B7&fire=F7768E&currStreakLabel=00C7B7&sideLabels=BB9AF7&dates=565f89&currStreakNum=ffffff&sideNums=ffffff&border_radius=12&card_width=790" width="790" alt="GitHub Streak" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="400" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadeeq-Ullah&theme=nord_dark" width="390" alt="Languages by Repo" />
+    </td>
+    <td width="400" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadeeq-Ullah&theme=radical" width="390" alt="Languages by Commit" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadeeq-Ullah&theme=tokyo-night&hide_border=false&area=true&bg_color=0D0D1A&color=00C7B7&line=00C7B7&point=F7768E&area_color=00C7B730&radius=6&height=250&custom_title=Sadeeq-Ullah%27s+Contribution+Graph&border_color=00C7B740" width="790" alt="Activity Graph" />
+    </td>
+  </tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" width="800" />
+
 </div>
 
 <!-- Snake Game Repo View -->
