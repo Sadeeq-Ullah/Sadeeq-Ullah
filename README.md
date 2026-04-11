@@ -54,8 +54,7 @@ I build **production-ready web applications** that solve real business problems.
 ### ✨ Fun Fact
 I started as a **Technical Data Specialist** (Excel, Google Sheets) before transitioning to frontend development—which means I bring **exceptional attention to detail and data accuracy** to every line of code I write. My first functional web project? A currency converter that I built in one weekend and now gets real-time rates from 160+ countries!
 
----
-Email Me 👉 ✉️ **digitalboyofficial123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+--- 
 
 ## 📊 GitHub Analytics
 
