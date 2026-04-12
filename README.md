@@ -140,7 +140,7 @@ I started as a **Technical Data Specialist** (Excel, Google Sheets) before trans
 [![GitHub](https://img.shields.io/badge/-%20Sadeeq--Ullah-e6edf3?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22&color=30363d)](https://github.com/Sadeeq-Ullah)
 [![WhatsApp](https://img.shields.io/badge/-%20%2B92%20330%203520929-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a2318)](https://wa.me/923303520929)
 [![Phone](https://img.shields.io/badge/-%20%2B92%20330%203520929-7F77DD?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a0a2e)](tel:+923303520929)
-[![Gmail](https://img.shields.io/badge/-%20digitalboyofficial123-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a0a)](mailto:digitalboyofficial123@gmail.com)
+[![Gmail](https://img.shields.io/badge/-%20digitalboyofficial123-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a0a)](mailto:sadeequllahdev@gmail.com)
 
 </div>
 
