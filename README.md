@@ -7,7 +7,7 @@
 
 ## 🚀 Frontend Developer || Responsive Design & scalable products builder || Technical Data Specialist 
 
-I build **production-ready web applications** that solve real business problems. With **1.2K+ LinkedIn followers** and a portfolio of fully deployed projects, I focus on clean code, responsive design, and seamless user experiences.
+I build **production-ready web applications** that solve real business problems. A portfolio of fully deployed projects, I focus on clean code, responsive design, and seamless user experiences.
 
 ---
 
